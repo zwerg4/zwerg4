@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=zwerg4)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 <!--
 **zwerg4/zwerg4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
